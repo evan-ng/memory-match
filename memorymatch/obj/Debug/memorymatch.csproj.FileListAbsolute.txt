@@ -1,0 +1,38 @@
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe.config
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.pdb
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csprojResolveAssemblyReference.cache
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Form1.resources
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Properties.Resources.resources
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.GenerateResource.Cache
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.CoreCompileInputs.cache
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.exe
+C:\Users\349408088.EDU\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.pdb
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe.config
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.pdb
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csprojAssemblyReference.cache
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Form1.resources
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Properties.Resources.resources
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.GenerateResource.cache
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.exe
+C:\Users\Mephistophelese\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.pdb
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe.config
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.pdb
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csprojResolveAssemblyReference.cache
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Form1.resources
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Properties.Resources.resources
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.GenerateResource.Cache
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.CoreCompileInputs.cache
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.exe
+C:\Users\349408088\source\repos\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.pdb
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe.config
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.exe
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\bin\Debug\NgEvanWidget.pdb
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csprojAssemblyReference.cache
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Form1.resources
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.Properties.Resources.resources
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.csproj.GenerateResource.cache
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.exe
+C:\Users\Mephistophelese\Desktop\Moon\School\Highschool\Grade 12\Semester 2\Computer Science - ICS4U1\NgEvanWidget\NgEvanWidget\obj\Debug\NgEvanWidget.pdb
